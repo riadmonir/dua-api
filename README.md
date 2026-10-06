@@ -118,4 +118,4 @@ npm run deploy
 ## 📄 License
 
 This dataset and code are provided open-source under the MIT License for the benefit of the Muslim community.
-Supplications are sourced from the authentic Sunnah and Hisnul Muslim (حصن المسلم).
+Supplications are sourced from the authentic DeenOne Muslim (حصن المسلم).
